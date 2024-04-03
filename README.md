@@ -1,7 +1,7 @@
 # Electronics_Lab
 
 ## Mineure : Électronique Analogique (S7)
-Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
+Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023-2024.pdf)
 - [Oscillateur Colpitts](2G2TP1_WEIDLE_LANFREDI_COLPITTS.pdf)
 - [Amplificateur classe C](2G2TP1_WEIDLE_LANFREDI_AmplificateurClasseC.pdf)
 - [Lignes de transmission](2G2TP1_WEIDLE_LANFREDI_Ligne_de_Transmission.pdf)
