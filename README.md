@@ -16,8 +16,8 @@ Sujet de TP : [lien.pdf](Sujets/Poly-TP-RF-2022-2023.pdf)
 
 ## Mineure : Électronique Analogique (S8)
 Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
-- [MODULATIONS ANALOGIQUES (MESURES)]()
-- [MODULATION D'AMPLITUDE SIMULATION]()
+- [Modulations analogiques (MESURES)]()
+- [Modulation d'amplitude SIMULATION]()
 
 ## Mineure : C.E.M (S8)
 Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
