@@ -22,6 +22,7 @@ Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
 ## Mineure : C.E.M (S8)
 Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
 
+## Majeure : Électronique Analogique (S8)
 
 ## Mineure Conversion d'energie
 Sujet de TP : [lien.pdf](Sujets_TP/TP_Comm_Num_2023.pdf)
