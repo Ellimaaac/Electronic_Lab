@@ -7,7 +7,7 @@ Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
 - [Lignes de transmission](2G2TP1_WEIDLE_LANFREDI_Ligne_de_Transmission.pdf)
 - [Boucle à verrouillage de phase](2G2TP1_WEIDLE_LANFREDI_BOUCLE-A-VERROUILLAGE-DE-PHASE.pdf)
 
-## Majeur : RF (S7)
+## Majeure : RF (S7)
 Sujet de TP : [lien.pdf](Sujets/Poly-TP-RF-2022-2023.pdf)
 - [Oscillateur à quartz](2G2TP1_WEIDLE_LANFREDI_OscillateurQuartz.pdf)
 - [Paramètres caractéristiques des lignes réalisées sur circuit imprimé – Influence du boîtier sur la fréquence de résonance de condensateurs](2G2TP1_WEIDLE_LANFREDI_Paramètres_des_lignes.pdf)
