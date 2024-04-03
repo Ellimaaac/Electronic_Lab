@@ -1,4 +1,4 @@
-# Electronic_Lab
+# Electronics_Lab
 
 ## Mineure : Électronique Analogique (S7)
 Sujet de TP : [lien.pdf](Sujets_TP/TP_Comm_Num_2023.pdf)
