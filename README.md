@@ -26,3 +26,7 @@ Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
 
 ## Mineure Conversion d'energie
 Sujet de TP : [lien.pdf](Sujets_TP/TP_Comm_Num_2023.pdf)
+- [Hacheur à accumulation (simulations avec PSIM)]()
+- [Hacheur 4 quadrants]()
+- [Alimentation à découpage Flyback ]()
+- [Alimentation à découpage Forward]()
