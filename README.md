@@ -7,7 +7,6 @@ Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
 - [Lignes de transmission](2G2TP1_WEIDLE_LANFREDI_Ligne_de_Transmission.pdf)
 - [Boucle à verrouillage de phase](2G2TP1_WEIDLE_LANFREDI_BOUCLE-A-VERROUILLAGE-DE-PHASE.pdf)
 
-
 ## Majeur : RF (S7)
 Sujet de TP : [lien.pdf](Sujets/Poly-TP-RF-2022-2023.pdf)
 - [Oscillateur à quartz](2G2TP1_WEIDLE_LANFREDI_OscillateurQuartz.pdf)
@@ -15,8 +14,13 @@ Sujet de TP : [lien.pdf](Sujets/Poly-TP-RF-2022-2023.pdf)
 - [Mesures à l’analyseur de réseau, et identification de schémas à l’aide d’ADS](2G2TP1_WEIDLE_LANFREDI_Mesures_analyseur_réseau_et_identification.pdf)
 - [Mesure et adaptation d’une antenne PIFA](2G2TP1_WEIDLE_LANFREDI_Antenne_PIFA.pdf)
 
+## Mineure : Électronique Analogique (S8)
+Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
+- [MODULATIONS ANALOGIQUES (MESURES)]()
+- [MODULATION D'AMPLITUDE SIMULATION]()
 
-
+## Mineure : C.E.M (S8)
+Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
 
 
 ## Mineure Conversion d'energie
