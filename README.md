@@ -22,8 +22,8 @@ Sujet de TP : [lien.pdf]()
 - [Alimentation à découpage Forward](2G2TP1_WEIDLE_LANFREDI_FORWARD.pdf)
 
 ## Mineure Informatique - Microprocesseur
-Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
-- []()
+Sujet de TP : [lien.pdf](Sujets/LAB_Micro2_2023-2024_v03_EN.pdf)
+- [Microprocesseur](2G2TP1_TP4_MICROP_WEIDLE_LANFREDI.pdf)
 
 
 ## Mineure : Électronique Analogique (S8)
