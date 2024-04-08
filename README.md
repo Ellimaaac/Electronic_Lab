@@ -33,8 +33,8 @@ Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
 
 ## Mineure : C.E.M (S8)
 Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
-- [Couplage capacitif](2G3TP5_TP1_WEIFLE_LANFREDI.pdf)
-- [Couplage inductif](2G3TP5_TP2_WEIFLE_LANFREDI.pdf)
+- [Couplage capacitif](S8_Mineure_CEM/2G3TP5_TP1_WEIFLE_LANFREDI.pdf)
+- [Couplage inductif](S8_Mineure_CEM/2G3TP5_TP2_WEIFLE_LANFREDI.pdf)
 ## Majeure : Électronique Analogique (S8)
 
 
