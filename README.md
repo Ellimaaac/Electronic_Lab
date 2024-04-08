@@ -29,7 +29,7 @@ Sujet de TP : [lien.pdf](Sujets/LAB_Micro2_2023-2024_v03_EN.pdf)
 ## Mineure : Électronique Analogique (S8)
 Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
 - [Modulations analogiques (MESURES)]()
-- [Modulation d'amplitude SIMULATION](2G3TP5_TP2_WEIDLE_LANFREDI_SIMULATION_RFID.pdf)
+- [Modulation d'amplitude SIMULATION](S8_Mineure_Elec/2G3TP5_TP2_WEIDLE_LANFREDI_SIMULATION_RFID.pdf)
 
 ## Mineure : C.E.M (S8)
 Sujet de TP : [lien.pdf](Sujets/S7-Poly-TP-2A-2023_2024.pdf)
