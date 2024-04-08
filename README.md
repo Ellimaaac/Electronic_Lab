@@ -16,10 +16,10 @@ Sujet de TP : [lien.pdf](Sujets/Poly%20TP%20RF%202022%202023.pdf)
 
 ## Mineure Conversion d'energie (S7)
 Sujet de TP : [lien.pdf](Sujets/TP_Complet1234_Conv2emAnnee_2020.pdf)
-- [Hacheur à accumulation (simulations avec PSIM)](2G2TP1_WEIDLE_LANFREDI_PSIM.pdf)
-- [Hacheur 4 quadrants](2G2TP1_WEIDLE_LANFREDI_H4Q.pdf)
-- [Alimentation à découpage Flyback ](2G2TP1_WEIDLE_LANFREDI_FLYBACK.pdf)
-- [Alimentation à découpage Forward](2G2TP1_WEIDLE_LANFREDI_FORWARD.pdf)
+- [Hacheur à accumulation (simulations avec PSIM)](S7_Mineure_CE/2G2TP1_WEIDLE_LANFREDI_PSIM.pdf)
+- [Hacheur 4 quadrants](S7_Mineure_CE/2G2TP1_WEIDLE_LANFREDI_H4Q.pdf)
+- [Alimentation à découpage Flyback ](S7_Mineure_CE/2G2TP1_WEIDLE_LANFREDI_FLYBACK.pdf)
+- [Alimentation à découpage Forward](S7_Mineure_CE/2G2TP1_WEIDLE_LANFREDI_FORWARD.pdf)
 
 ## Mineure Informatique - Microprocesseur
 Sujet de TP : [lien.pdf](Sujets/LAB_Micro2_2023-2024_v03_EN.pdf)
