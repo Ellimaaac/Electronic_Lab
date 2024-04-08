@@ -23,7 +23,7 @@ Sujet de TP : [lien.pdf](Sujets/TP_Complet1234_Conv2emAnnee_2020.pdf)
 
 ## Mineure Informatique - Microprocesseur
 Sujet de TP : [lien.pdf](Sujets/LAB_Micro2_2023-2024_v03_EN.pdf)
-- [Microprocesseur](2G2TP1_TP4_MICROP_WEIDLE_LANFREDI.pdf)
+- [Microprocesseur](S7_Mineure_Info/2G2TP1_TP4_MICROP_WEIDLE_LANFREDI.pdf)
 
 
 ## Mineure : Électronique Analogique (S8)
